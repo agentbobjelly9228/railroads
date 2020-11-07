@@ -1,14 +1,14 @@
 line,name,colour,stripe
-1,Bakerloo Line,Gorse,NULL
-3,Circle Line,Mauvelous,NULL
-6,Hammersmith & City Line,Grey Chateau,NULL
-7,Jubilee Line,Pacific Blue,NULL
-11,Victoria Line,Outrageous Orange,NULL
-2,Central Line,Shamrock Green,NULL
-4,District Line,Supernova,NULL
-5,East London Line,Eggplant,NULL
-8,Metropolitan Line,Black,NULL
-9,Northern Line,Cobalt,NULL
-10,Piccadilly Line,Bermuda,NULL
-12,Waterloo & City Line,Gorse,NULL
-13,Docklands Light Railway,Mauvelous,FFFFFF
+1,Bakerloo Line,Golden Brown,NULL
+3,Circle Line,Gorse,NULL
+6,Hammersmith & City Line,Mauvelous,NULL
+7,Jubilee Line,Grey Chateau,NULL
+11,Victoria Line,Pacific Blue,NULL
+2,Central Line,Outrageous Orange,NULL
+4,District Line,Shamrock Green,NULL
+5,East London Line,Supernova,NULL
+8,Metropolitan Line,Eggplant,NULL
+9,Northern Line,Black,NULL
+10,Piccadilly Line,Cobalt,NULL
+12,Waterloo & City Line,Bermuda,NULL
+13,Docklands Light Railway,Free Speech Aquamarine,FFFFFF
